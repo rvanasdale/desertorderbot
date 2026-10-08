@@ -9,4 +9,4 @@ A Python project exploring computer vision and desktop automation for the game *
 
 ## Technical work
 
-The project combines image classification and computer vision with screen capture, event detection, and automated mouse input. It uses Python tools including OpenCV, TensorFlow/Keras, and PyAutoGUI.
+The project combines image classification and computer vision with screen capture, event detection, and automated mouse input. It uses Python tools including OpenCV, TensorFlow/Keras, and PyAutoGUI. This project was done fairly quickly across 2-3 weeks so about 70% of the code was AI generated (much more than that of my rocket projects). 
